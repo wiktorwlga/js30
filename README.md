@@ -1,5 +1,4 @@
-# js30
- 30 Day Vanilla JS Challenge by WesBos 
+# JavaScript30
 This Course is given by the amazing [WesBos](https://wesbos.com/)
 
 Original Starter Files + Completed solutions for the JavaScript 30 Day Challenge can be found [here](https://github.com/wesbos/JavaScript30)
