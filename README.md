@@ -18,7 +18,7 @@ Grab the course at [JavaScript30.com](JavaScript30.com)
 |  6  | [Type Ahead][6]                                     | 28th July 2025 |
 |  7  | [Array Cardio 2][7]                                 | 28th July 2025 |
 |  8  | [Fun with HTML5 Canvas][8]                          | 28th July 2025 |
-|  9  | [Dev Tools Domination][9]                           |  |
+|  9  | [Dev Tools Domination][9]                           | 28th July 2025 |
 | 10  | [Hold Shift and Check Checkboxes][10]               |  |
 | 11  | [Custom Video Player][11]                           |  |
 | 12  | [Key Sequence Detection][12]                        |  |
