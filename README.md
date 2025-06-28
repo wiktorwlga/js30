@@ -3,7 +3,7 @@ This Course is given by the amazing [WesBos](https://wesbos.com/)
 
 Original Starter Files + Completed solutions for the JavaScript 30 Day Challenge can be found [here](https://github.com/wesbos/JavaScript30)
 
-Grab the course at [JavaScript30.com](javascript30.com)
+Grab the course at [JavaScript30.com](JavaScript30.com)
 
 [Here]() you can find my shot at this challenge!
 ## Tracking
@@ -13,7 +13,7 @@ Grab the course at [JavaScript30.com](javascript30.com)
 |  1  | [CSS Drum Kit][1]                                   | 28th July 2025 |
 |  2  | [JS + CSS Clock][2]                                 | 28th July 2025 |
 |  3  | [CSS Variables][3]                                  | 28th July 2025 |
-|  4  | [Array Cardio 1][4]                                 |  |
+|  4  | [Array Cardio 1][4]                                 | 29th July 2025 |
 |  5  | [Flex Panel Gallery][5]                             |  |
 |  6  | [Type Ahead][6]                                     |  |
 |  7  | [Array Cardio 2][7]                                 |  |
