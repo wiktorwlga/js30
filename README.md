@@ -15,7 +15,7 @@ Grab the course at [JavaScript30.com](JavaScript30.com)
 |  3  | [CSS Variables][3]                                  | 27th July 2025 |
 |  4  | [Array Cardio 1][4]                                 | 28th July 2025 |
 |  5  | [Flex Panel Gallery][5]                             | 28th July 2025 |
-|  6  | [Type Ahead][6]                                     |  |
+|  6  | [Type Ahead][6]                                     | 28th July 2025 |
 |  7  | [Array Cardio 2][7]                                 |  |
 |  8  | [Fun with HTML5 Canvas][8]                          |  |
 |  9  | [Dev Tools Domination][9]                           |  |
