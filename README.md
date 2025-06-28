@@ -17,7 +17,7 @@ Grab the course at [JavaScript30.com](JavaScript30.com)
 |  5  | [Flex Panel Gallery][5]                             | 28th July 2025 |
 |  6  | [Type Ahead][6]                                     | 28th July 2025 |
 |  7  | [Array Cardio 2][7]                                 | 28th July 2025 |
-|  8  | [Fun with HTML5 Canvas][8]                          |  |
+|  8  | [Fun with HTML5 Canvas][8]                          | 28th July 2025 |
 |  9  | [Dev Tools Domination][9]                           |  |
 | 10  | [Hold Shift and Check Checkboxes][10]               |  |
 | 11  | [Custom Video Player][11]                           |  |
