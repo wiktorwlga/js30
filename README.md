@@ -10,11 +10,11 @@ Grab the course at [JavaScript30.com](JavaScript30.com)
 
 | Day | Challenge                                           |    Took On     |
 | :-: | :-------------------------------------------------- | :------------: |
-|  1  | [CSS Drum Kit][1]                                   | 28th July 2025 |
-|  2  | [JS + CSS Clock][2]                                 | 28th July 2025 |
-|  3  | [CSS Variables][3]                                  | 28th July 2025 |
-|  4  | [Array Cardio 1][4]                                 | 29th July 2025 |
-|  5  | [Flex Panel Gallery][5]                             |  |
+|  1  | [CSS Drum Kit][1]                                   | 27th July 2025 |
+|  2  | [JS + CSS Clock][2]                                 | 27th July 2025 |
+|  3  | [CSS Variables][3]                                  | 27th July 2025 |
+|  4  | [Array Cardio 1][4]                                 | 28th July 2025 |
+|  5  | [Flex Panel Gallery][5]                             | 28th July 2025 |
 |  6  | [Type Ahead][6]                                     |  |
 |  7  | [Array Cardio 2][7]                                 |  |
 |  8  | [Fun with HTML5 Canvas][8]                          |  |
