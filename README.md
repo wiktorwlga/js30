@@ -20,7 +20,7 @@ Grab the course at [JavaScript30.com](JavaScript30.com)
 |  8  | [Fun with HTML5 Canvas][8]                          | 28th June 2025 |
 |  9  | [Dev Tools Domination][9]                           | 28th June 2025 |
 | 10  | [Hold Shift and Check Checkboxes][10]               | 29th June 2025 |
-| 11  | [Custom Video Player][11]                           |  |
+| 11  | [Custom Video Player][11]                           | 29th June 2025 |
 | 12  | [Key Sequence Detection][12]                        |  |
 | 13  | [Slide in on Scroll][13]                            |  |
 | 14  | [Javascript Reference vs Copying][14]               |  |
