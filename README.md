@@ -23,7 +23,7 @@ Grab the course at [JavaScript30.com](JavaScript30.com)
 | 11  | [Custom Video Player][11]                           | 29th June 2025 |
 | 12  | [Key Sequence Detection][12]                        | 29th June 2025|
 | 13  | [Slide in on Scroll][13]                            | 29th June 2025 |
-| 14  | [Javascript Reference vs Copying][14]               |  |
+| 14  | [Javascript Reference vs Copying][14]               | 29th June 2025 |
 | 15  | [Local Storage][15]                                 |  |
 | 16  | [Mouse Move Shadow][16]                             |  |
 | 17  | [Sort Without Articles][17]                         |  |
