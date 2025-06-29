@@ -10,16 +10,16 @@ Grab the course at [JavaScript30.com](JavaScript30.com)
 
 | Day | Challenge                                           |    Took On     |
 | :-: | :-------------------------------------------------- | :------------: |
-|  1  | [CSS Drum Kit][1]                                   | 27th July 2025 |
-|  2  | [JS + CSS Clock][2]                                 | 27th July 2025 |
-|  3  | [CSS Variables][3]                                  | 27th July 2025 |
-|  4  | [Array Cardio 1][4]                                 | 28th July 2025 |
-|  5  | [Flex Panel Gallery][5]                             | 28th July 2025 |
-|  6  | [Type Ahead][6]                                     | 28th July 2025 |
-|  7  | [Array Cardio 2][7]                                 | 28th July 2025 |
-|  8  | [Fun with HTML5 Canvas][8]                          | 28th July 2025 |
-|  9  | [Dev Tools Domination][9]                           | 28th July 2025 |
-| 10  | [Hold Shift and Check Checkboxes][10]               |  |
+|  1  | [CSS Drum Kit][1]                                   | 27th June 2025 |
+|  2  | [JS + CSS Clock][2]                                 | 27th June 2025 |
+|  3  | [CSS Variables][3]                                  | 27th June 2025 |
+|  4  | [Array Cardio 1][4]                                 | 28th June 2025 |
+|  5  | [Flex Panel Gallery][5]                             | 28th June 2025 |
+|  6  | [Type Ahead][6]                                     | 28th June 2025 |
+|  7  | [Array Cardio 2][7]                                 | 28th June 2025 |
+|  8  | [Fun with HTML5 Canvas][8]                          | 28th June 2025 |
+|  9  | [Dev Tools Domination][9]                           | 28th June 2025 |
+| 10  | [Hold Shift and Check Checkboxes][10]               | 29th June 2025 |
 | 11  | [Custom Video Player][11]                           |  |
 | 12  | [Key Sequence Detection][12]                        |  |
 | 13  | [Slide in on Scroll][13]                            |  |
